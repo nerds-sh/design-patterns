@@ -8,24 +8,31 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/mihairadulescu/.nuget/packages/": {}
+    "C:\\Users\\capat\\.nuget\\packages\\": {},
+    "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mihairadulescu/Projects/practica/design_patterns/design_patterns.csproj",
+      "projectUniqueName": "F:\\proiecte\\design-patterns\\design_patterns.csproj",
       "projectName": "design_patterns",
-      "projectPath": "/Users/mihairadulescu/Projects/practica/design_patterns/design_patterns.csproj",
-      "packagesPath": "/Users/mihairadulescu/.nuget/packages/",
-      "outputPath": "/Users/mihairadulescu/Projects/practica/design_patterns/obj/",
+      "projectPath": "F:\\proiecte\\design-patterns\\design_patterns.csproj",
+      "packagesPath": "C:\\Users\\capat\\.nuget\\packages\\",
+      "outputPath": "F:\\proiecte\\design-patterns\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/mihairadulescu/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\capat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
