@@ -1,1 +1,2 @@
-﻿Console.WriteLine("232");
+﻿
+Patterns.Flyweight.Run();
