@@ -1,0 +1,15 @@
+C:\Users\mihai\OneDrive\Desktop\Mihai\bin\Debug\net6.0\Mihai.exe
+C:\Users\mihai\OneDrive\Desktop\Mihai\bin\Debug\net6.0\Mihai.deps.json
+C:\Users\mihai\OneDrive\Desktop\Mihai\bin\Debug\net6.0\Mihai.runtimeconfig.json
+C:\Users\mihai\OneDrive\Desktop\Mihai\bin\Debug\net6.0\Mihai.dll
+C:\Users\mihai\OneDrive\Desktop\Mihai\bin\Debug\net6.0\Mihai.pdb
+C:\Users\mihai\OneDrive\Desktop\Mihai\obj\Debug\net6.0\Mihai.csproj.AssemblyReference.cache
+C:\Users\mihai\OneDrive\Desktop\Mihai\obj\Debug\net6.0\Mihai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\OneDrive\Desktop\Mihai\obj\Debug\net6.0\Mihai.AssemblyInfoInputs.cache
+C:\Users\mihai\OneDrive\Desktop\Mihai\obj\Debug\net6.0\Mihai.AssemblyInfo.cs
+C:\Users\mihai\OneDrive\Desktop\Mihai\obj\Debug\net6.0\Mihai.csproj.CoreCompileInputs.cache
+C:\Users\mihai\OneDrive\Desktop\Mihai\obj\Debug\net6.0\Mihai.dll
+C:\Users\mihai\OneDrive\Desktop\Mihai\obj\Debug\net6.0\refint\Mihai.dll
+C:\Users\mihai\OneDrive\Desktop\Mihai\obj\Debug\net6.0\Mihai.pdb
+C:\Users\mihai\OneDrive\Desktop\Mihai\obj\Debug\net6.0\Mihai.genruntimeconfig.cache
+C:\Users\mihai\OneDrive\Desktop\Mihai\obj\Debug\net6.0\ref\Mihai.dll
