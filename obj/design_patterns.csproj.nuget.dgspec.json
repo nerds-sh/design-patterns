@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mihairadulescu/Projects/practica/design_patterns/design_patterns.csproj": {}
+    "/Users/iuli18icl/Desktop/FACULTATE/PRACTICA2022/design-patterns-main/design_patterns.csproj": {}
   },
   "projects": {
-    "/Users/mihairadulescu/Projects/practica/design_patterns/design_patterns.csproj": {
+    "/Users/iuli18icl/Desktop/FACULTATE/PRACTICA2022/design-patterns-main/design_patterns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mihairadulescu/Projects/practica/design_patterns/design_patterns.csproj",
+        "projectUniqueName": "/Users/iuli18icl/Desktop/FACULTATE/PRACTICA2022/design-patterns-main/design_patterns.csproj",
         "projectName": "design_patterns",
-        "projectPath": "/Users/mihairadulescu/Projects/practica/design_patterns/design_patterns.csproj",
-        "packagesPath": "/Users/mihairadulescu/.nuget/packages/",
-        "outputPath": "/Users/mihairadulescu/Projects/practica/design_patterns/obj/",
+        "projectPath": "/Users/iuli18icl/Desktop/FACULTATE/PRACTICA2022/design-patterns-main/design_patterns.csproj",
+        "packagesPath": "/Users/iuli18icl/.nuget/packages/",
+        "outputPath": "/Users/iuli18icl/Desktop/FACULTATE/PRACTICA2022/design-patterns-main/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mihairadulescu/.nuget/NuGet/NuGet.Config"
+          "/Users/iuli18icl/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
